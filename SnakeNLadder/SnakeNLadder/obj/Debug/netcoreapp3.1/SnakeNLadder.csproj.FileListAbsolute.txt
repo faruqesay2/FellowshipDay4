@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\SnakeNLadder\SnakeNLadder\obj\Debug\netcoreapp3.1\SnakeNLadder.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\SnakeNLadder\SnakeNLadder\obj\Debug\netcoreapp3.1\SnakeNLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\SnakeNLadder\SnakeNLadder\obj\Debug\netcoreapp3.1\SnakeNLadder.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\SnakeNLadder\SnakeNLadder\obj\Debug\netcoreapp3.1\SnakeNLadder.AssemblyInfo.cs
+C:\Users\naruto\Desktop\Bridgzlabs\C# Practice Programs\SnakeNLadder\SnakeNLadder\obj\Debug\netcoreapp3.1\SnakeNLadder.csproj.CoreCompileInputs.cache
